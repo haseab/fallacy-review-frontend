@@ -21,6 +21,12 @@ nav {
   align-items: center;
 }
 
+.p1s {
+  width: 40%;
+  text-align: left;
+  margin: auto;
+}
+
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
